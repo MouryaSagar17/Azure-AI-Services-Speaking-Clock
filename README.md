@@ -1,18 +1,19 @@
 # 🕑 Azure AI Services Speaking Clock (Python)
-A hands-on project using Azure AI Speech Services and Python to build a speaking clock app! 🎤🕰️
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue) ![Python](https://img.shields.io/badge/Python-3.10+-green) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+> A hands-on project using Azure AI Speech Services and Python to build a speaking clock app! 🎤🕰️
 
 # 📚 Project Overview
 In this project, you'll learn how to:
 
-✅ Create an Azure AI Speech resource
+> ✅ Create an Azure AI Speech resource
 
-✅ Build a Python app to recognize speech and announce the time
+> ✅ Build a Python app to recognize speech and announce the time
 
-✅ Use the Azure SDK for speech-to-text and text-to-speech
+> ✅ Use the Azure SDK for speech-to-text and text-to-speech
 
-✅ Run locally using your microphone or an audio file
+> ✅ Run locally using your microphone or an audio file
 
-✅ Clean up Azure resources after use
+> ✅ Clean up Azure resources after use
 
 # 🛠️ Tech Stack
 ```bash 
@@ -49,7 +50,7 @@ python speaking-clock.py
 ```
 ## 🎙️ Speak clearly into your mic and ask:
 
-"What time is it?"
+> "What time is it?"
 
 # Sample Outputs 
 ![SAMPLE1](https://github.com/MouryaSagar17/Azure-AI-Services-Speaking-Clock/blob/main/Speech-Clock/Ouputs/Sample_Ouput_1.png?raw=true)
@@ -73,11 +74,11 @@ The app will recognize your speech and respond with the current time using AI-po
 🖥️ Lightweight and console-based for quick testing
 ```
 # 🧹 Clean Up
-To avoid charges, delete your Azure resources after testing:
+> To avoid charges, delete your Azure resources after testing:
 
-Go to the Azure Portal
+> Go to the Azure Portal
 
-Delete the resource group created for this project
+> Delete the resource group created for this project
 
 # 📖 Learn More
 [Azure AI Speech Services Documentation](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/)
@@ -85,8 +86,8 @@ Delete the resource group created for this project
 [Azure Speech SDK for Python](https://learn.microsoft.com/en-us/python/api/overview/azure/speech?view=azure-python)
 
 # 🌟 Acknowledgements
-Huge thanks to Microsoft Learn for providing the base structure and learning materials! 🙌
+> Huge thanks to Microsoft Learn for providing the base structure and learning materials! 🙌
 
 # 🚀 Final Note
-This project gave me real-world experience integrating Python apps with Azure AI—fast, efficient, and super fun! Can’t wait to build even more voice-powered apps! 🎤💬✨
+> This project gave me real-world experience integrating Python apps with Azure AI—fast, efficient, and super fun! Can’t wait to build even more voice-powered apps! 🎤💬✨
 
