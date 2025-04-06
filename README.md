@@ -30,7 +30,7 @@ VS Code (recommended)
 ## 🚀 1. Clone the Repository
 ```bash
 git clone https://github.com/MouryaSagar17/Azure-AI-Services-Speaking-Clock.git
-cd speech/Python/speaking-clock
+cd Speech-Clock/Python/
 ```
 ## ⚙️ 2. Set Up Environment Variables
 Create a .env file in the speaking-clock folder:
@@ -45,12 +45,16 @@ pip install azure-cognitiveservices-speech==1.30.0 playsound==1.2.2
 ```
 ## 🏃 4. Run the App
 ```bash
-
 python speaking-clock.py
 ```
 ## 🎙️ Speak clearly into your mic and ask:
 
 "What time is it?"
+
+# Sample Outputs 
+![SAMPLE1](https://github.com/MouryaSagar17/Azure-AI-Services-Speaking-Clock/blob/main/Speech-Clock/Ouputs/Sample_Ouput_1.png?raw=true)
+![SAMPLE2](https://github.com/MouryaSagar17/Azure-AI-Services-Speaking-Clock/blob/main/Speech-Clock/Ouputs/Sample_Ouput_2.png?raw=true)
+
 
 The app will recognize your speech and respond with the current time using AI-powered voice synthesis! 🗣️✨
 
@@ -76,9 +80,9 @@ Go to the Azure Portal
 Delete the resource group created for this project
 
 # 📖 Learn More
-Azure AI Speech Services Documentation
+[Azure AI Speech Services Documentation](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/)
 
-Azure Speech SDK for Python
+[Azure Speech SDK for Python](https://learn.microsoft.com/en-us/python/api/overview/azure/speech?view=azure-python)
 
 # 🌟 Acknowledgements
 Huge thanks to Microsoft Learn for providing the base structure and learning materials! 🙌
